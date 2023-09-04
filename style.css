@@ -48,3 +48,7 @@ body{
     border-bottom-right-radius: 0;
     background-color: whitesmoke;
 }
+.calculator button:hover{
+    background-color: rgba(0, 0, 0, 0.1);
+
+}
