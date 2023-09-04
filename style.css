@@ -26,3 +26,13 @@ body{
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
 
 }
+.calculator input{
+    box-sizing: border-box;
+    width: 90%;
+    padding:8px;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0; 
+}
