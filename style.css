@@ -72,3 +72,12 @@ body{
    padding: 16px;
    position: fixed;
 }
+
+#tip-amount.show{  /*add javascript class */
+    visibility: visible; /*make tip amount visible */ 
+   -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s; 
+   animation: fadein 0.5s, fadeout 0.5s 2.5s; 
+
+
+
+}
