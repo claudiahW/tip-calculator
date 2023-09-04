@@ -103,3 +103,9 @@ body{
         width:15%;
     }
 }
+
+@media(max-width:320px){
+    .calculator input{
+        width:80%;
+    }
+}
